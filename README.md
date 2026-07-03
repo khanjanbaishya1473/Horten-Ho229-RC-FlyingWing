@@ -1,7 +1,10 @@
 # Horten Ho 229 RC Flying Wing
 **IIT Guwahati Aeromodelling Club — Fixed Wing Problem Statement**
 
-> Scaled-down 1000 mm wingspan RC model of the Horten Ho 229 — the world's first jet-powered flying wing (1944). Designed for direct manufacturability using 3mm Aeroply, 5mm Balsa, and 3mm Depron foam.
+## About
+Scaled-down 1000mm wingspan RC model of the Horten Ho 229 flying wing.
+Built in Autodesk Fusion 360. Airfoil analysis in XFLR5 v6.62.
+
 
 ---
 
@@ -45,4 +48,3 @@
 
 ---
 
-*Author: Khanjan Baishya · IIT Guwahati · 2026*

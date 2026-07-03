@@ -8,19 +8,19 @@ Built in Autodesk Fusion 360. Airfoil analysis in XFLR5 v6.62.
 
 ---
 
-## 📁 Submission Files
+##  Submission Files
 
 | File | Description | Link |
 |------|-------------|------|
-| 📄 Technical Report | Full design report — reference study, XFLR5 analysis, specs, CAD | [View in repo](Horten_Ho229_Technical_Report_Final.docx) |
-| 📐 Engineering Drawing | 2D dimensioned blueprint — top, front, isometric views | [View in repo](Horten_Ho229_Engineering_Blueprint.pdf) |
-| 🖼️ CAD Render | Fusion 360 isometric render | [View in repo](Render_Isometric.jpg) |
-| 🔩 CAD File (.f3d) | Fusion 360 native file — full rib/spar assembly | [View in repo](Horten_Ho229_RC.f3d) |
-| 🔩 CAD File (.step) | Universal CAD format (54MB — hosted on Drive) | [⬇️ Download STEP from Google Drive](https://drive.google.com/file/d/1c1FQ5GRXzzwjUkU0go4zN-BWKuEMZc47/view?usp=sharing) |
+|  Technical Report | Full design report — reference study, XFLR5 analysis, specs, CAD | [View in repo](Horten_Ho229_Technical_Report_Final.docx) |
+|  Engineering Drawing | 2D dimensioned blueprint — top, front, isometric views | [View in repo](Horten_Ho229_Engineering_Blueprint.pdf) |
+|  CAD Render | Fusion 360 isometric render | [View in repo](Render_Isometric.jpg) |
+|  CAD File (.f3d) | Fusion 360 native file — full rib/spar assembly | [View in repo](Horten_Ho229_RC.f3d) |
+|  CAD File (.step) | Universal CAD format (54MB — hosted on Drive) | [⬇️ Download STEP from Google Drive](https://drive.google.com/file/d/1c1FQ5GRXzzwjUkU0go4zN-BWKuEMZc47/view?usp=sharing) |
 
 ---
 
-## ✈️ Design Specifications
+##  Design Specifications
 
 | Parameter | Value |
 |-----------|-------|
@@ -38,7 +38,7 @@ Built in Autodesk Fusion 360. Airfoil analysis in XFLR5 v6.62.
 
 ---
 
-## 🏗️ CAD Assembly Structure
+##  CAD Assembly Structure
 - Full rib and spar framework — **not a solid block**
 - Ribs exportable as DXF for laser cutting
 - Spars slide through pre-cut rib slots
